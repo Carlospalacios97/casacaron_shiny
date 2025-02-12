@@ -8,7 +8,7 @@ library(janitor)
 library(echarts4r)
 library(htmlwidgets)
 
-
+# esto es una modificacion
 source('modulos/filtros.R',encoding = 'UTF-8')
 source('modulos/01_pestana.R',encoding = 'UTF-8')
 
